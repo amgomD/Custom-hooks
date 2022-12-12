@@ -1,4 +1,4 @@
-# Comadndos Git
+# Comandos Git
 
 01- git init
 02- git add .
